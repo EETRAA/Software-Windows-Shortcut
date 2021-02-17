@@ -1,2 +1,2 @@
 # Software-Windows-Shortcut
-🪟 Make Windows more friendly
+🪟 Make Windows more friendly.
